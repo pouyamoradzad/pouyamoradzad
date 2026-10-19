@@ -58,7 +58,7 @@ Audits every Telegram dialog, scores it with a strict rules engine, and cleans o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pouyamoradzad&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pouyamoradzad&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pouyamoradzad&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
